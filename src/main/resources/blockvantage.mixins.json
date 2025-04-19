@@ -3,7 +3,6 @@
 	"package": "net.s0un3.blockvantage.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin",
 		"LivingEntityMixin"
 	],
 	"injectors": {
